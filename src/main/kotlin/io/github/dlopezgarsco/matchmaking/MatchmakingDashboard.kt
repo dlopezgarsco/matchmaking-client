@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class MatchmakingDashboard
 
 fun main(args: Array<String>) {
-    runApplication<MatchmakingDashboard>(*args)
+  runApplication<MatchmakingDashboard>(*args)
 }
-

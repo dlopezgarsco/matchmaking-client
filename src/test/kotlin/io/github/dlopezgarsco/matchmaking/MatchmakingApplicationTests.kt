@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
 internal class MatchmakingApplicationTests {
-    @Test
-    fun contextLoads() {
-    }
+  @Test
+  fun contextLoads() {
+  }
 }

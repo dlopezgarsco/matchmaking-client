@@ -1,0 +1,4 @@
+package io.github.dlopezgarsco.matchmaking.dashboard.api.v1.users
+
+interface Service {
+}
